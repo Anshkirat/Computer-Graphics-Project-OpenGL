@@ -1,0 +1,100 @@
+﻿  main.cpp
+C:\Users\anshk\Desktop\Computer Graphics\Practice_f\main.cpp(194,10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\anshk\Desktop\Computer Graphics\Practice_f\main.cpp(195,10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\anshk\Desktop\Computer Graphics\Practice_f\main.cpp(241,16): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\anshk\Desktop\Computer Graphics\Practice_f\main.cpp(245,16): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\anshk\Desktop\Computer Graphics\Practice_f\main.cpp(249,16): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\anshk\Desktop\Computer Graphics\Practice_f\main.cpp(253,16): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\anshk\Desktop\Computer Graphics\Practice_f\main.cpp(257,18): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\anshk\Desktop\Computer Graphics\Practice_f\main.cpp(261,18): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\anshk\Desktop\Computer Graphics\Practice_f\main.cpp(265,18): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\anshk\Desktop\Computer Graphics\Practice_f\main.cpp(269,18): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\anshk\Desktop\Computer Graphics\Practice_f\main.cpp(273,12): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\anshk\Desktop\Computer Graphics\Practice_f\main.cpp(277,12): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\anshk\Desktop\Computer Graphics\Practice_f\main.cpp(281,12): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\anshk\Desktop\Computer Graphics\Practice_f\main.cpp(285,12): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\anshk\Desktop\Computer Graphics\Practice_f\main.cpp(289,12): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\anshk\Desktop\Computer Graphics\Practice_f\main.cpp(293,12): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\anshk\Desktop\Computer Graphics\Practice_f\main.cpp(297,18): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\anshk\Desktop\Computer Graphics\Practice_f\main.cpp(301,18): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\anshk\Desktop\Computer Graphics\Practice_f\main.cpp(305,18): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\anshk\Desktop\Computer Graphics\Practice_f\main.cpp(309,18): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\anshk\Desktop\Computer Graphics\Practice_f\main.cpp(365,27): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\anshk\Desktop\Computer Graphics\Practice_f\main.cpp(554,46): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\anshk\Desktop\Computer Graphics\Practice_f\main.cpp(562,48): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\anshk\Desktop\Computer Graphics\Practice_f\main.cpp(570,48): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\anshk\Desktop\Computer Graphics\Practice_f\main.cpp(578,48): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\anshk\Desktop\Computer Graphics\Practice_f\main.cpp(585,48): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 842 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Practice_f.vcxproj -> C:\Users\anshk\Desktop\Computer Graphics\Practice_f\Release\Practice_f.exe

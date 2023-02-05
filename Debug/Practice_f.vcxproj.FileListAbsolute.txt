@@ -1,0 +1,5 @@
+C:\Users\anshk\Desktop\Computer Graphics\Practice_f\Debug\Practice_f.exe
+C:\Users\anshk\Desktop\Computer Graphics\Practice_f\Debug\Practice_f.vcxproj.CopyComplete
+C:\Users\anshk\Desktop\Computer Graphics\Practice_f\Debug\assimp-vc142-mtd.dll
+C:\Users\anshk\Desktop\Computer Graphics\Practice_f\Debug\zlibd1.dll
+C:\Users\anshk\Desktop\Computer Graphics\Practice_f\Debug\pugixml.dll
